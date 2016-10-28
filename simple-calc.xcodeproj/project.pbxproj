@@ -97,11 +97,11 @@
 		C7A52F7A1DC2DBB300FD5F91 /* simple-calc */ = {
 			isa = PBXGroup;
 			children = (
-				C7A52FAC1DC2E58E00FD5F91 /* Main.storyboard */,
 				C7A52F7B1DC2DBB300FD5F91 /* AppDelegate.swift */,
 				C7A52F7D1DC2DBB300FD5F91 /* ViewController.swift */,
 				C7A52F821DC2DBB300FD5F91 /* Assets.xcassets */,
 				C7A52F841DC2DBB300FD5F91 /* LaunchScreen.storyboard */,
+				C7A52FAC1DC2E58E00FD5F91 /* Main.storyboard */,
 				C7A52F871DC2DBB300FD5F91 /* Info.plist */,
 			);
 			path = "simple-calc";
